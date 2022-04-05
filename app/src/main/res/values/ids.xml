@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="kitty_img" type="id"></item>
+    <item name="kitty_name" type="id"></item>
+    <item name="kitty_age" type="id"></item>
+    <item name="kitty_hobby" type="id"></item>
+</resources>
